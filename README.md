@@ -1,5 +1,8 @@
 # CVND---Image-Captioning-Project
 
+# Pretrained Model
+The pretrained encoder and decoder checkpoints can be found in the [checkpoints](checkpoints) directory.
+
 # Instructions  
 1. Clone this repo: https://github.com/cocodataset/cocoapi  
 ```
